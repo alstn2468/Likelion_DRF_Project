@@ -4,13 +4,14 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Generic badge](https://img.shields.io/github/languages/top/alstn2468/LikeLion_DRF_Project)](https://shields.io/)
 
-##  Author : [Kim Minsu](https://github.com/alstn2468)<br/>[ [Facebook](https://www.facebook.com/profile.php?id=100003769223078) ] [ [Github](https://github.com/alstn2468) ] [ [LinkedIn](https://www.linkedin.com/in/minsu-kim-336289160/) ] [ [Blog](https://alstn2468.github.io/) ]<br/>
+## Author : [Kim Minsu](https://github.com/alstn2468)<br/>[ [Facebook](https://www.facebook.com/profile.php?id=100003769223078) ] [ [Github](https://github.com/alstn2468) ] [ [LinkedIn](https://www.linkedin.com/in/minsu-kim-336289160/) ] [ [Blog](https://alstn2468.github.io/) ]<br/>
 
 ## Available Function
-- Nothing
 
+-   Nothing
 
 ## To Do
+
 -   [ ] Authentication
 -   [ ] Pagination
 -   [ ] Filter
@@ -20,18 +21,18 @@
 -   [ ] Album
     -   [ ] Image
     -   [ ] Description
--   [ ] Files
+-   [ ] File
     -   [ ] File
     -   [ ] Description
 
-
 ## Requirement
-- python (3.6.5)
-- Django (1.11.24)
-- djangorestframework (3.9.4)
 
+-   python (3.6.5)
+-   Django (2.1.8)
+-   djangorestframework (3.10.3)
 
 ## License
+
 <img align="right" src="http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png">
 
 The class is licensed under the [MIT License](http://opensource.org/licenses/MIT):
