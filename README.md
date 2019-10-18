@@ -8,7 +8,11 @@
 
 ## Available Function
 
--   Nothing
+-   You can **c**reate essay instance.
+-   You can **r**ead essay instance.
+-   You can **u**pdate essay instance.
+-   You can **d**elete essay instance.
+-   You can **Searching** essay instance by title, body.
 
 ## To Do
 
