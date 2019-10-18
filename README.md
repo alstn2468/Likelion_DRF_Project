@@ -8,11 +8,11 @@
 
 ## Available Function
 
--   You can **c**reate essay instance.
--   You can **r**ead essay instance.
--   You can **u**pdate essay instance.
--   You can **d**elete essay instance.
--   You can **Searching** essay instance by title, body.
+-   You can **create** essay instance.
+-   You can **read** essay instance.
+-   You can **update** essay instance.
+-   You can **delete** essay instance.
+-   You can **searching** essay instance by title, body.
 
 ## To Do
 
