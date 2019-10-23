@@ -16,24 +16,23 @@
 
 ## To Do
 
--   [ ] Authentication
--   [ ] Pagination
 -   [x] Filter
 -   [x] Essay
     -   [x] Title
     -   [x] Body
--   [ ] Album
-    -   [ ] Image
-    -   [ ] Description
--   [ ] File
-    -   [ ] File
-    -   [ ] Description
+-   [x] Album
+    -   [x] Image
+    -   [x] Description
+-   [x] File
+    -   [x] File
+    -   [x] Description
 
 ## Requirement
 
 -   python (3.6.5)
 -   Django (2.1.8)
 -   djangorestframework (3.10.3)
+-   Pillow (6.2.0)
 
 ## License
 
